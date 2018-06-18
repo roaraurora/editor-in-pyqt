@@ -1,0 +1,7 @@
+QMainWindow {
+    font-family: "Microsoft Himalaya", serif;
+    background-color: #85cafa;
+}
+QTextEdit{
+    font-size: 30px;
+}
